@@ -1,7 +1,20 @@
+ /* FONTS **********************************/
+
+ @font-face {
+   font-family: myFirstFont;
+   src: url(PlayfairDisplay/static/PlayfairDisplay-Medium.ttf);
+ }
+
+ /**********************************/
 body{
   display: flex;
   justify-content: center;
   background: #e7d1ff;
+}
+
+h1{
+  font-family:PlayfairDisplay;
+  background: blue;
 }
 
 #container{
