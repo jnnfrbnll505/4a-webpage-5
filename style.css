@@ -5,6 +5,11 @@
    src: url(Old-London/OldLondon.ttf);
  }
 
+ @font-face {
+   font-family:PlayfairDisplay;
+   src: url(Playfair-Display/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+ }
+
  /**********************************/
 body{
   display: flex;
@@ -14,6 +19,9 @@ body{
 
 h1{
   font-family:OldLondon;
+}
+p{
+  font-family:PlayfairDisplay;
 }
 
 #container{
