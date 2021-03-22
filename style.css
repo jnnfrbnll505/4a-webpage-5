@@ -17,8 +17,16 @@ body{
   background: #e7d1ff;
 }
 
+h2{
+  top:50px;
+  position: absolute;
+  margin-bottom: 15px;
+  padding: 15px;
+  font-size: 35px;
+}
 h1{
   font-family:OldLondon;
+  font-size: 50px;
 }
 p{
   font-family:PlayfairDisplay;
@@ -26,7 +34,7 @@ p{
 
 #container{
   position: relative;
-  top: 100px;
+  top: 200px;
   width: 500px;
 }
 
