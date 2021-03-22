@@ -11,8 +11,8 @@
  }
 
  @font-face {
-   font-family:Deutsch;
-   src: url(Deutsch-Gothic/Deutsch.ttf);
+   font-family:Augusta;
+   src: url(Augusta/Augusta.ttf);
  }
 
  /**********************************/
@@ -23,7 +23,7 @@ body{
 }
 
 h2{
-  font-family:Deutsch;
+  font-family:Augusta;
   font-size: 35px;
   top:10px;
   position: absolute;
