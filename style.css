@@ -1,8 +1,8 @@
  /* FONTS **********************************/
 
  @font-face {
-   font-family: OldLondon;
-   src: url(Old London/OldLondon.ttf);
+   font-family:OldLondon;
+   src: url(Old-London/OldLondon.ttf);
  }
 
  /**********************************/
@@ -13,8 +13,7 @@ body{
 }
 
 h1{
-  font-family:PlayfairDisplay;
-  background: blue;
+  font-family:OldLondon;
 }
 
 #container{
