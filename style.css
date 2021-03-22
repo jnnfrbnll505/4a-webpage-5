@@ -11,8 +11,8 @@
  }
 
  @font-face {
-   font-family:PlayfairDisplay;
-   src: url(Deutsch/Deutsch.ttf);
+   font-family:Deutsch;
+   src: url(Deutsch-Gothic/Deutsch.ttf);
  }
 
  /**********************************/
@@ -23,7 +23,7 @@ body{
 }
 
 h2{
-  font-family: Deutsch;
+  font-family:Deutsch;
   font-size: 35px;
   top:10px;
   position: absolute;
