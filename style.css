@@ -23,10 +23,11 @@ body{
 }
 
 pre{
+  position: absolute;
   font-family:Deutsch;
   font-size: 35px;
   top:40px;
-  text-align: center;
+  margin-left: -300px;
   margin-bottom: 15px;
   padding: 15px;
 }
