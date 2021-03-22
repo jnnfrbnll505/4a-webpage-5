@@ -11,7 +11,7 @@
  }
 
  @font-face {
-   font-family:Deutsch;
+   font-family:PlayfairDisplay;
    src: url(Deutsch/Deutsch.ttf);
  }
 
@@ -24,11 +24,11 @@ body{
 
 h2{
   font-family: Deutsch;
-  top:50px;
+  font-size: 35px;
+  top:10px;
   position: absolute;
   margin-bottom: 15px;
   padding: 15px;
-  font-size: 35px;
 }
 h1{
   font-family:OldLondon;
