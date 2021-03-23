@@ -46,6 +46,16 @@ p{
   width: 500px;
 }
 
+#hero-image{
+  display: flex;
+  justify-content: center;
+}
+
+#hero-image img {
+  height: 200px;
+  width: 200px;
+}
+
 #content-box{
   background: #FFF;
   padding: 15px;
