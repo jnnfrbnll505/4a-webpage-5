@@ -46,14 +46,9 @@ p{
   width: 500px;
 }
 
-#hero-image{
+#ColorWheel{
   display: flex;
   justify-content: center;
-}
-
-#hero-image img {
-  width: 100px;
-  height: 100px;
 }
 
 #content-box{
