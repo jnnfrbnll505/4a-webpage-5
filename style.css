@@ -49,8 +49,6 @@ p{
 #ColorWheel{
   display: flex;
   justify-content: center;
-  position: relative;
-  margin-left: 400px;
 }
 
 #content-box{
